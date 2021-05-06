@@ -14,4 +14,3 @@ Knowledge, Studying and Learning
 
 ##
 #### For Job, send me a email: e.igor@hotmail.com
-![QRCode Igor](https://raw.githubusercontent.com/elioigor/elioigor/main/qrcode_github.com.png)
